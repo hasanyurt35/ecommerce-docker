@@ -4,6 +4,9 @@
 This hands-on training is designed to reinforce Docker concepts learned in the previous sessions by building a real-world multi-container application. Wel will implement a complete e-commerce product catalog system using Docker, Docker Compose, and best practices.
 
 <img src="images/react.jpg" alt="Demo" width="80">
+<img src="images/flask.png" alt="Demo" width="80">
+<img src="images/redis.png" alt="Demo" width="80">
+<img src="images/sql.png" alt="Demo" width="80">
 
 ## Project Overview
 
@@ -127,5 +130,6 @@ SSH         TCP         22           0.0.0.0/0      SSH access
 Custom TCP  TCP         3000         0.0.0.0/0      Frontend
 Custom TCP  TCP         5000         0.0.0.0/0      Backend API
 ```
+
 
 
