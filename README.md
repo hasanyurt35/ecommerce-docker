@@ -1,4 +1,4 @@
-
+## Dynamic website listing products for sale. Orchestration(Docker)-web(react-flask-PostgreSQL-Redis)
 
 ## Purpose
 This hands-on training is designed to reinforce Docker concepts learned in the previous sessions by building a real-world multi-container application. Wel will implement a complete e-commerce product catalog system using Docker, Docker Compose, and best practices.
@@ -132,6 +132,7 @@ SSH         TCP         22           0.0.0.0/0      SSH access
 Custom TCP  TCP         3000         0.0.0.0/0      Frontend
 Custom TCP  TCP         5000         0.0.0.0/0      Backend API
 ```
+
 
 
 
